@@ -1,0 +1,19 @@
+{
+  "name": "french-visa",
+  "version": "1.0.0",
+  "description": "Fetch french visa appointment at toronto consulate",
+  "main": "checkVisaAppointment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.13.0",
+    "request": "^2.72.0",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
